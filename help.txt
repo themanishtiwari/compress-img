@@ -1,0 +1,8 @@
+enable gd extention in xammp server--
+
+How to Do 
+xammp>php>php.ini(configration setting)>
+
+find ";extension=gd"
+replace"extension=gd"
+Save
